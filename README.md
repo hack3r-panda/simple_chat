@@ -3,7 +3,7 @@
 is a simple chat using socket module
 If You are interseted upgrade it
 
-#usage
+# usage
 python 3 or above
 run : python server.py 
 then : python cleint.py
